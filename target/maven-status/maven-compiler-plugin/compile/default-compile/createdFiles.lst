@@ -1,0 +1,11 @@
+base\BasePage.class
+pageObjects\ShopProductPage.class
+pageObjects\ShopContentPanel.class
+pageObjects\OrderAddress.class
+pageObjects\OrderShipping.class
+co\uk\automationtesting\Main.class
+pageObjects\HomePage.class
+pageObjects\ShoppingCart.class
+pageObjects\OrderPayment.class
+pageObjects\OrderPersonalInfo.class
+pageObjects\ShopHomePage.class
